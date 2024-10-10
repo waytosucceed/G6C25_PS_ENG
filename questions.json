@@ -1,0 +1,304 @@
+{
+  "heading": "Simple tenses",
+  "topics": [
+    {
+      "heading": "Simple tenses",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which sentence is in simple present tense?",
+          "options": [
+            "a) The leaves fell from the trees.",
+            "b) Birds fly south for the winter.",
+            "c) We will visit the zoo next week.",
+            "d) She baked cookies yesterday."
+          ],
+          "answer": 1,
+          "explanation": "This sentence describes a regular, recurring action in nature, using the simple present tense."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank with the correct simple past tense verb: Last night, the stars _____ brightly in the sky.",
+          "options": [
+            "a) shine",
+            "b) shined",
+            "c) shone",
+            "d) will shine"
+          ],
+          "answer": 2,
+          "explanation": "'Shone' is the simple past tense form of 'shine'."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which sentence is in simple future tense?",
+          "options": [
+            "a) The cat sleeps on the windowsill.",
+            "b) We planted flowers in the garden.",
+            "c) They will perform in the school play next month.",
+            "d) She rides her bike to school."
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses 'will' to indicate a future action."
+        },
+        {
+          "questionNo": 4,
+          "question": "Choose the correct simple present tense form: The sun _____ in the east every morning.",
+          "options": [
+            "a) rise",
+            "b) rises",
+            "c) rose",
+            "d) will rise"
+          ],
+          "answer": 1,
+          "explanation": "For third-person singular subjects (he/she/it), we add -s or -es to the verb in the simple present tense."
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blank with the correct simple future tense: Next summer, we _____ to the beach for our vacation.",
+          "options": [
+            "a) go",
+            "b) went",
+            "c) goes",
+            "d) will go"
+          ],
+          "answer": 3,
+          "explanation": "'Will go' indicates a planned future action."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which sentence is in simple past tense?",
+          "options": [
+            "a) The dog barks at the mailman.",
+            "b) We will eat dinner at 7 PM.",
+            "c) They played chess all afternoon.",
+            "d) She swims every Tuesday."
+          ],
+          "answer": 2,
+          "explanation": "This sentence describes a completed action in the past using the simple past tense."
+        },
+        {
+          "questionNo": 7,
+          "question": "Choose the correct simple present tense form: My brother _____ video games every weekend.",
+          "options": [
+            "a) play",
+            "b) plays",
+            "c) played",
+            "d) will play"
+          ],
+          "answer": 1,
+          "explanation": "For third-person singular subjects (he/she/it), we add -s or -es to the verb in the simple present tense."
+        },
+        {
+          "questionNo": 8,
+          "question": "Fill in the blank with the correct simple past tense verb: Yesterday, the children _____ a sandcastle on the beach.",
+          "options": [
+            "a) build",
+            "b) builds",
+            "c) built",
+            "d) will build"
+          ],
+          "answer": 2,
+          "explanation": "'Built' is the simple past tense form of 'build'."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which sentence is in simple future tense?",
+          "options": [
+            "a) The leaves change colour in autumn.",
+            "b) We ate pizza for dinner last night.",
+            "c) She practices piano every day.",
+            "d) They will visit their cousins during the holidays."
+          ],
+          "answer": 3,
+          "explanation": "This sentence uses 'will' to indicate a future action."
+        },
+        {
+          "questionNo": 10,
+          "question": "Choose the correct verb form: Water _____ at 100 degrees Celsius.",
+          "options": [
+            "a) boil",
+            "b) boils",
+            "c) boiled",
+            "d) will boil"
+          ],
+          "answer": 1,
+          "explanation": "This is a scientific fact, stated in simple present tense. We use -s for third-person singular subjects."
+        },
+        {
+          "questionNo": 11,
+          "question": "Fill in the blank: The movie _____ at 8 PM tomorrow.",
+          "options": [
+            "a) start",
+            "b) starts",
+            "c) started",
+            "d) will start"
+          ],
+          "answer": 3,
+          "explanation": "'Will start' indicates a scheduled future action (tomorrow)."
+        },
+        {
+          "questionNo": 12,
+          "question": "Choose the correct tense for the given sentence: 'They woke up early this morning.'",
+          "options": [
+            "a) Simple past",
+            "b) Simple future",
+            "c) Simple present"
+          ],
+          "answer": 0,
+          "explanation": "This sentence describes a completed action in the past using the simple past tense."
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the correct simple present tense form: My sister _____ her teeth twice a day.",
+          "options": [
+            "a) brush",
+            "b) brushes",
+            "c) brushed",
+            "d) will brush"
+          ],
+          "answer": 1,
+          "explanation": "For third-person singular subjects (he/she/it), we add -s or -es to the verb in the simple present tense."
+        },
+        {
+          "questionNo": 14,
+          "question": "The sentence 'The concert will begin at 7:30 PM tonight' is in simple _______ tense.",
+          "options": [
+            "a) past",
+            "b) present",
+            "c) future"
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses 'will' to indicate a future action."
+        },
+        {
+          "questionNo": 15,
+          "question": "Fill in the blank with the correct simple future tense: Next year, I _____ to learn a new language.",
+          "options": [
+            "a) start",
+            "b) starts",
+            "c) started",
+            "d) will start"
+          ],
+          "answer": 3,
+          "explanation": "'Will start' indicates a planned future action."
+        },
+        {
+          "questionNo": 16,
+          "question": "Choose the correct simple present tense form: The library _____ at 9 AM every day.",
+          "options": [
+            "a) open",
+            "b) opens",
+            "c) opened",
+            "d) will open"
+          ],
+          "answer": 1,
+          "explanation": "For third-person singular subjects (he/she/it), we add -s or -es to the verb in the simple present tense."
+        },
+        {
+          "questionNo": 17,
+          "question": "Fill in the blank with the correct simple past tense verb: Last night, we _____ a strange noise coming from the neighbourhood.",
+          "options": [
+            "a) hear",
+            "b) hears",
+            "c) heard",
+            "d) will hear"
+          ],
+          "answer": 2,
+          "explanation": "'Heard' is the irregular simple past tense form of 'hear'."
+        },
+        {
+          "questionNo": 18,
+          "question": "Choose the correct simple present tense form: My dog _____ his tail when he's happy.",
+          "options": [
+            "a) wag",
+            "b) wags",
+            "c) wagged",
+            "d) will wag"
+          ],
+          "answer": 1,
+          "explanation": "For third-person singular subjects (he/she/it), we add -s or -es to the verb in the simple present tense."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank with the correct simple past tense verb: Last summer, we _____ many interesting places during our vacation.",
+          "options": [
+            "a) see",
+            "b) sees",
+            "c) saw",
+            "d) will see"
+          ],
+          "answer": 2,
+          "explanation": "'Saw' is the irregular simple past tense form of 'see'."
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the sentence that correctly mixes simple present and simple future tense:",
+          "options": [
+            "a) We go to the beach every summer and will build sandcastles.",
+            "b) They went to the museum yesterday and learn about dinosaurs."
+          ],
+          "answer": 0,
+          "explanation": "This sentence correctly uses simple present ('go') for a habitual action and simple future ('will build') for a planned future action."
+        },
+        {
+          "questionNo": 21,
+          "question": "Which sentence demonstrates the correct use of all three tenses?",
+          "options": [
+            "a) They play soccer every weekend, won the tournament last month, and practice daily.",
+            "b) We visited Paris last year, we love the city, and we will return next summer."
+          ],
+          "answer": 1,
+          "explanation": "This sentence correctly uses simple past, simple present, and simple future tense in order."
+        },
+        {
+          "questionNo": 22,
+          "question": "Choose the correct simple present tense form: The heart _____ blood throughout the body.",
+          "options": [
+            "a) pump",
+            "b) pumps",
+            "c) pumped",
+            "d) will pump"
+          ],
+          "answer": 1,
+          "explanation": "This is a biological fact stated in simple present tense. We use -s for third-person singular subjects (the heart)."
+        },
+        {
+          "questionNo": 23,
+          "question": "Which sentence uses simple future tense correctly?",
+          "options": [
+            "a) The sun rises in the east every morning.",
+            "b) We visited the Grand Canyon last summer.",
+            "c) She prepares a weekly meal plan every Sunday.",
+            "d) The scientists will conduct the experiment next month."
+          ],
+          "answer": 3,
+          "explanation": "This sentence uses 'will' + base verb form to indicate a future action."
+        },
+        {
+          "questionNo": 24,
+          "question": "Fill in the blanks with the correct tense forms: The chef _____ (prepare) the ingredients now, _____ (cook) the meal later, and _____ (serve) it to the guests tomorrow evening.",
+          "options": [
+            "a) prepares, will cook, will serve",
+            "b) prepared, cooks, will serve",
+            "c) prepares, cooks, served",
+            "d) will prepare, cooked, serves"
+          ],
+          "answer": 0,
+          "explanation": "This sentence requires a simple present for the current action and a simple future for the upcoming actions."
+        },
+        {
+          "questionNo": 25,
+          "question": "Fill in the blank with the correct simple past tense verb: During medieval times, knights _____ in heavy armour.",
+          "options": [
+            "a) fight",
+            "b) fights",
+            "c) fought",
+            "d) will fight"
+          ],
+          "answer": 2,
+          "explanation": "'Fought' is the simple past tense form of 'fight'."
+        }
+      ]
+    }
+  ]
+}
